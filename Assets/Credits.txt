@@ -1,0 +1,60 @@
+Credits - Exercise 2.2
+
+File - apt - interiorTest
+Author - --- - provided by Dr. V
+
+File - monsteraDeliciosa -- Monstera Deliciosa Potted Mid-Century plant 3D Model
+Author - Giora
+Link - https://sketchfab.com/3d-models/monstera-deliciosa-potted-mid-century-plant-1ab9bf841df04c07b1819be596327629
+
+File - plantPacked -- Potted Plant, Mediterranean broad leaf, low poly
+Author - dudecon
+Link - https://sketchfab.com/3d-models/potted-plant-mediterranean-broad-leaf-low-poly-5c0e99de5d0f46c59bb2ead487ba7b53
+
+File - pottedPalm - [FREE] Dyspis Lutescens - Potted Palm
+Author - AllQuad
+Link - https://sketchfab.com/3d-models/free-dyspis-lutescens-potted-palm-92f75abd656049608248cf76a8c88136
+
+File - propogatedMonstera - Monstera B03
+Author - MozzarellaARC
+Link - https://sketchfab.com/3d-models/monstera-b03-9bc2f5750b144bbcbe0531e529c258e1
+
+File - terrarium - Plant
+Author - Artsy D'Arcy
+Link - https://sketchfab.com/3d-models/plant-9b9c886786fd4e8e9102292a728d544c
+
+File - Afremov 1,2,3 - Various Works Created by Leonid Afremov
+Author - Leonid Afremov
+Link - https://afremov.com/old-dreampalette-knife-oil-painting-on-canvas-by-leonid-afremov-size-36-x30.html
+
+File - sunset - ---
+Author - ---
+Link - https://th.bing.com/th/id/R.dbff1cdae170808e9c33918cd42ea7b2?rik=Ju4nV5wuRbRrLw&riu=http%3a%2f%2fwallup.net%2fwp-content%2fuploads%2f2015%2f12%2f253019-digital_art-minimalism-nature-hill-mountain-moon-stars-night-artwork-landscape-simple.jpg&ehk=rMvn5Cl9uzwEE7BGZu%2fJANJrxgS5Q0265GdpuD1PSlU%3d&risl=&pid=ImgRaw&r=0
+
+File - nightSky - ---
+Author - ---
+Link - https://static.vecteezy.com/system/resources/previews/000/208/995/large_2x/vector-abstract-red-landscape-illustration.jpg
+
+File - SVUScreenshot - ---
+Author - Kaitlin Fontana
+Link - https://www.wgaeast.org/onwriting/warren-leight-in-treatment-law-order/
+
+File - rugMaterial - Grey carpet for background
+Author - topntp26
+Link - https://www.freepik.com/free-photo/grey-carpet-background_1273991.htm#fromView=search&page=1&position=0&uuid=846ae775-df99-46d8-ab22-2c643237387c&new_detail=true&query=Fluffy+Rug+Texture
+
+File - couchLeather - Leather Chesterfield Texture 03
+Author - Texturebox
+Link - https://texturebox.com/asset-id=bot5ol6a
+
+File - soilTexture - Forest Ground Flowers 02
+Author - Texturebox
+Link - https://texturebox.com/asset-id=yt1mz9ra
+
+File - woodFloorMaterial - Wood Floor Oak 02
+Author - Texturebox
+Link - https://texturebox.com/asset-id=gv6mldve
+
+File - woodMaterial - Fine Wood Veneer 68
+Author - Texturebox
+Link - https://texturebox.com/asset-id=umugl1r8
