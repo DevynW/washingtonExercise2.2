@@ -185,7 +185,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: b7c25fb032bfe1045b034a70e99b92a5, type: 2}
     - target: {fileID: 919132149155446097, guid: 2713520f956693f4c8dd4a42f544214d, type: 3}
       propertyPath: m_Name
-      value: Sketchfab_Ready_Monstera
+      value: monsteraDeliciosa
       objectReference: {fileID: 0}
     - target: {fileID: 9019988700521230450, guid: 2713520f956693f4c8dd4a42f544214d, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -469,7 +469,7 @@ PrefabInstance:
     - target: {fileID: -678588488315902003, guid: 83a1a97f70e7aa9478047780ff02fe47, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: -2310514774154243031, guid: 2713520f956693f4c8dd4a42f544214d, type: 3}
+      objectReference: {fileID: 2100000, guid: 964b2381cc0e9014390cf0f167293aad, type: 2}
     - target: {fileID: -241587437493983680, guid: 83a1a97f70e7aa9478047780ff02fe47, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -1169,7 +1169,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: cda328e164b5c284287e8463c3b49458, type: 2}
     - target: {fileID: 919132149155446097, guid: d06313c3e9e99c8458eeb5f165504936, type: 3}
       propertyPath: m_Name
-      value: wk8_plant_Boyce_D'Arcy
+      value: terrarium
       objectReference: {fileID: 0}
     - target: {fileID: 956899165341800135, guid: d06313c3e9e99c8458eeb5f165504936, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -1794,7 +1794,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 5b7f228b440ba0a4d998006a8e8908a0, type: 2}
     - target: {fileID: 919132149155446097, guid: 749aaae72c3b3ec438dea233f57781a1, type: 3}
       propertyPath: m_Name
-      value: MZRa_Monstera_B03
+      value: propogatedMonstera
       objectReference: {fileID: 0}
     - target: {fileID: 3695666860197271449, guid: 749aaae72c3b3ec438dea233f57781a1, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -1863,7 +1863,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5617b3d0d06248f44aa6e47ed87608fe, type: 3}
       propertyPath: m_Name
-      value: FREE_DYPSIS_LUTESCENS
+      value: pottedPalm
       objectReference: {fileID: 0}
     - target: {fileID: 2051860335920845688, guid: 5617b3d0d06248f44aa6e47ed87608fe, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -2416,7 +2416,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: b7c25fb032bfe1045b034a70e99b92a5, type: 2}
     - target: {fileID: 919132149155446097, guid: 9fd8f40b459dd7d4aa8de7edfe2ad90a, type: 3}
       propertyPath: m_Name
-      value: InteriorTest
+      value: apt
       objectReference: {fileID: 0}
     - target: {fileID: 1000906953557902836, guid: 9fd8f40b459dd7d4aa8de7edfe2ad90a, type: 3}
       propertyPath: m_Materials.Array.data[0]
